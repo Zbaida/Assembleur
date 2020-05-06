@@ -1,4 +1,4 @@
 # Assembleur
 
-These files are a simple of project in my educational career in Assembly.
+These files contains a simple projects in Assembly.
       
